@@ -1,4 +1,4 @@
-***🚗 PATH AI – Autonomous Driving Simulation using Reinforcement Learning***
+# 🚗 PATH AI – Autonomous Driving Simulation using Reinforcement Learning
 
 PATH AI is a reinforcement learning-based autonomous driving simulation that demonstrates intelligent decision-making in a dynamic multi-lane highway environment. The system uses simulated LIDAR sensing to perceive surroundings and a Deep Q-Network (DQN) to learn safe driving behavior such as lane switching, obstacle avoidance, and collision prevention.
 
